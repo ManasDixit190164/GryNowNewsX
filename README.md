@@ -2,6 +2,8 @@
 
 A React Native mobile application for news consumption, built with modern technologies and best practices.
 
+APK Link: https://www.jioaicloud.com/l/?u=Faolw7DpP6I3xvTl33nsVpBfngxeo5_XszFoK6xd3vZYAG-5hA633tjzvBv0qlKvXPz
+
 ## 🚀 Technologies Used
 
 ### Core Technologies
